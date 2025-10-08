@@ -1,0 +1,5 @@
+{
+  "name": "Soạn giáo án Tin học THCS - Chuẩn Bộ GD&ĐT",
+  "description": "Ứng dụng hỗ trợ giáo viên Tin học THCS soạn giáo án đúng quy định theo Thông tư và Phụ lục hướng dẫn của Bộ GD&ĐT. Cho phép nhập các thông tin: môn học, lớp, tên bài, bộ sách, yêu cầu cần đạt, hoạt động dạy học (khởi động, hình thành kiến thức, luyện tập, vận dụng, mở rộng), và xuất file Word tự động.",
+  "requestFramePermissions": []
+}
